@@ -18,3 +18,14 @@ To update it once created:
 ```shell
 aws cloudformation update-stack --stack-name klaro --template-body file://$PWD/klaro.yaml
 ```
+
+## Server setup
+
+To do the initial server setup, run the handy setup script! This installs nginx
+, starts it and sets it up to restart on the server boot-up.
+
+```shell
+bash setup.sh
+```
+
+Enjoy :)
