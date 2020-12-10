@@ -61,3 +61,12 @@ Resources:
     Properties:
       RouteTableId: !Ref PublicRouteTable
       SubnetId: !Ref PublicSubnet
+  DNSRecord:
+    Type: AWS::Route53::RecordSet
+    Properties:
+      HostedZoneName: klaro.xyz.
+      Name: klaro.xyz
+      ResourceRecords:
+        - !Ref ElasticIP
+      TTL: '300'
+      Type: A
