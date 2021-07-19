@@ -1,0 +1,44 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Klaro: Deutsch-English dictionary</title>
+    <style>
+        input[type=text] {
+            font-family: "Georgia",serif;
+            font-size: 3rem;
+            outline: none;
+            border: none;
+            width: 98%;
+            display: block;
+            margin : 0 auto;
+            caret-color: red;
+        }
+        input::placeholder {
+            font-style: italic;
+        }
+        html {height: 100%;}
+        body {
+            border-style: solid;
+            border-width: 0.1rem;
+            box-shadow: 0.2rem 0.3rem black;
+            width: 97%;
+            height: 97%;
+            max-width: 30rem;
+        }
+        input {}
+    </style>
+</head>
+<body>
+    <input id="input" type="text" autofocus="autofocus" placeholder="Start typing..">
+    <script>
+        input = document.getElementById('input');
+        input.oninput = function() {
+            console.log(this.value)
+            fetch('/search')
+                .then(response => console.log(response))
+        };
+    </script>
+</body>
+</html>

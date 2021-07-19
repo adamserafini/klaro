@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="klaro3.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="62.177083"
+       y="125.86607"
+       width="3.0238095"
+       height="14.363095"
+       id="rect1051" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="275.35714"
+     inkscape:cy="572.85714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1794"
+     inkscape:window-height="943"
+     inkscape:window-x="126"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:0.65;font-family:'Corsiva Hebrew';-inkscape-font-specification:'Corsiva Hebrew';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.002975"
+       y="120.19643"
+       id="text40"><tspan
+         sodipodi:role="line"
+         x="48.002975"
+         y="120.19643"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.7556px;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';stroke-width:0.264583"
+         id="tspan42">Klaro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.120537"
+       y="135.50447"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         x="39.120537"
+         y="135.50447"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583">'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.429501"
+       y="137.53018"
+       id="text56-4"><tspan
+         sodipodi:role="line"
+         id="tspan54-3"
+         x="34.429501"
+         y="137.53018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583">'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="30.082771"
+       y="140.17603"
+       id="text56-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan54-3-4"
+         x="30.082771"
+         y="140.17603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ffcc00;fill-opacity:1;stroke-width:0.264583">'</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1049"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333000000032px;white-space:pre;shape-inside:url(#rect1051);" />
+  </g>
+</svg>
